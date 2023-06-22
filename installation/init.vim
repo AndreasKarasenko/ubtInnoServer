@@ -1,5 +1,4 @@
-call plug#begin("~/.vim/plugged")
- " Plugin Section
+call plug#begin()
  Plug 'dracula/vim'
  Plug 'ryanoasis/vim-devicons'
  Plug 'SirVer/ultisnips'
